@@ -1,0 +1,21 @@
+.cart{
+         line-height: 4px;
+         font-size: 20px;
+}
+.cart-head{
+         text-align: center;
+}
+.cart-btn{
+         background-color: goldenrod;
+         width: 150px;
+         height: 30px;
+         border: 1px solid lightgray;
+         border-radius: 5px;
+         cursor: pointer;
+};
+.p-style{
+         font-weight: 500;
+}
+.total{
+         color: #b12704;
+}
